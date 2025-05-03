@@ -1,0 +1,16 @@
+Flask==2.3.3
+flask-cors==4.0.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+tensorflow==2.15.0
+keras==2.15.0
+mtcnn==0.1.1
+Pillow==10.2.0
+torch==2.2.1
+torchvision==0.17.1
+facenet-pytorch==2.5.3
+scikit-learn==1.4.1
+imutils==0.5.4
+retina-face==0.0.13
+h5py==3.10.0
+matplotlib==3.8.3
