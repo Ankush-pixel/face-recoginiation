@@ -9,7 +9,7 @@ ArcFace
 FaceNet
 OpenFace
 
-🛡Liveness Detection (anti-spoofing) to identify fake or replayed faces
+Liveness Detection (anti-spoofing) to identify fake or replayed faces
  Mask Detection to identify partially covered faces
  Age, Gender, and Emotion Analysis (optional if models support)
  Upload or capture photo via webcam (PWA-friendly)
